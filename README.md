@@ -1,1 +1,3 @@
-# ProyectoJS2
+# ProyectoJS
+
+Samira Muñoz Pizarro - Est. Ingeniería Sistemas

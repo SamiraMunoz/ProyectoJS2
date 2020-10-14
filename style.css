@@ -1,0 +1,38 @@
+.calculator{
+  display:block;
+  margin:0 auto;
+  padding:20px;
+  background-color:#515151;
+  width:340px;
+  height:570px;
+  border-radius: 25px;
+}
+.calculator button{
+  display:block;
+  width: 70px;
+  height: 70px;
+  font-size: 25px;
+  margin-right: 6px;
+  margin-left: 6px;
+}
+
+.calculator .large{
+  width: 152px;
+}
+
+#result-screen{
+  display:block;
+  text-align: center;
+  font-size: 40px;
+  margin-bottom: 50px;
+  width:300px;
+  height: 100px;
+  line-height: 100px;
+  background-color:#fff;
+  border-radius: 25px;
+  overflow-y: scroll;
+}
+
+.card-body {
+  height: 450px;
+}
